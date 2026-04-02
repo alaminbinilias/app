@@ -2,6 +2,7 @@ import React from 'react';
 import playstore from "../../Images/play.png"
 import appstore from "../../Images/app-store.png"
 import header from "../../Images/HD1.png"
+import phone from "../../Images/Iphone.png"
 const HeroSection = () => {
     return (
         <div>
@@ -15,25 +16,26 @@ const HeroSection = () => {
                 </div>
 
                 <div className='pb-20'>
-                    <img className="z-10 flex items-center justify-center mx-auto lg:w-300" src={header}></img>
+                    <img className="z-10 hidden lg:block flex items-center justify-center mx-auto lg:w-300" src={header}></img>
+                    <img className="z-10 block w-59 mt-10 lg:hidden flex items-center justify-center mx-auto lg:w-300" src={phone}></img>
                 </div>
-                <div className=' -mt-45 lg:-mt-92 py-5 lg:pb-30 relative z-0 bg-gradient-to-r from-[#632EE3] to-[#9F62F2]'>
-                    <p className='text-center text-white mb-10 mt-3 text-4xl'>Trusted by Millions, Built for You</p>
+                <div className='-mt-20 lg:-mt-92 py-5 mb-40 lg:mb-0 lg:pb-15 relative z-0 bg-gradient-to-r from-[#632EE3] to-[#9F62F2]'>
+                    <p className='text-center w-full text-white mb-4 lg:mb-10 mt-3 text-2xl lg:text-4xl'>Trusted by Millions, Built for You</p>
                     <div className=' flex justify-evenly'>
                         <div>
-                            <p>Total Downloads</p>
-                            <p>29.6M</p>
-                            <p>21% more than last month</p>
+                            <p className='text-0.1 text-white mb-3 text-center'>Total Downloads</p>
+                            <p className='text-3xl mb-2 lg:text-6xl font-bold text-white text-center lg:mb-4'>29.6M</p>
+                            <p className='text-white text-[0.7rem] lg:text-sm'>21% more than last month</p>
                         </div>
                         <div>
-                            <p>Total Reviews</p>
-                            <p>906K</p>
-                            <p>46% more than last month</p>
+                            <p className='text-0.1 text-white mb-3 text-center'>Total Reviews</p>
+                            <p className='text-3xl mb-2 lg:text-6xl font-bold text-white text-center lg:mb-4'>906K</p>
+                            <p className='text-white text-[0.7rem] lg:text-sm'>46% more than last month</p>
                         </div>
                         <div>
-                            <p>Active Apps</p>
-                            <p>132+</p>
-                            <p>31 more will Launch</p>
+                            <p className='text-0.1 text-white mb-3 text-center'>Active Apps</p>
+                            <p className='text-3xl mb-2 lg:text-6xl font-bold text-white text-center lg:mb-4'>132+</p>
+                            <p className='text-white text-[0.7rem] lg:text-sm'>31 more will Launch</p>
                         </div>
                     </div>
                 </div>
