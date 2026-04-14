@@ -1,0 +1,496 @@
+[
+  {
+    "image": "https://i.postimg.cc/N0RVnZBR/Spotify-Icon-White-Dark-Background-Logo-wine.jpg",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 1001,
+    "description": "Spotify is a popular music streaming app that provides access to millions of songs, podcasts, and audio content from around the world, offering users a simple and user-friendly interface to easily search, discover, and enjoy music based on their personal preferences. Whether you enjoy pop, rock, hip-hop, or classical music, Spotify offers a wide range of genres to match every mood and taste. One of its standout features is its personalized recommendation system, which analyzes your listening habits to suggest songs, albums, and playlists you are likely to enjoy, with features like Discover Weekly and Daily Mix keeping the experience fresh and engaging. Users can also create their own playlists, follow their favorite artists, and explore curated collections made by experts. Spotify includes social features that allow users to share music with friends and even collaborate on playlists, making the experience more interactive. For enhanced convenience, Spotify Premium offers ad-free listening, offline downloads, unlimited skips, and high-quality audio streaming. The app works smoothly across multiple devices, including smartphones, tablets, and desktops, ensuring seamless listening anytime, anywhere. In addition to music, Spotify also offers a wide variety of podcasts across different topics, making it a complete audio entertainment platform.",
+    "size": 120,
+    "reviews": "1B+",
+    "ratingAvg": 4.5,
+    "downloads": "1840000",
+    "download": "1.8M+",
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 50000000 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/kGy7dBCQ/1200x630wa-(4).png",
+    "title": "FitTrack Health",
+    "companyName": "Vitality Apps",
+    "id": 1002,
+    "description": "FitTrack Health is a comprehensive fitness and wellness application designed to help users achieve their health goals through personalized training, smart tracking, and detailed insights, all within a single easy-to-use platform. It combines workout planning, nutrition tracking, and real-time health monitoring, making it suitable for both beginners and experienced fitness enthusiasts. Users can follow customized workout programs based on their specific goals, such as weight loss, muscle gain, or overall fitness improvement. The app includes advanced tracking features like step counting, calorie monitoring, and heart rate tracking, helping users stay aware of their daily activity and progress. FitTrack Health also uses AI-driven analysis to provide weekly reports and performance insights, allowing users to make informed decisions and improve consistently. With access to thousands of guided workout videos including yoga, running, cycling, and strength training, users can enjoy a flexible and engaging fitness routine anytime. In addition, the app offers motivational features such as global challenges and the ability to compete with friends, making fitness more interactive and enjoyable. Its clean interface, visual progress charts, and smart reminders help users stay consistent and committed to a healthier lifestyle.",
+    "size": 120,
+    "reviews": 8750,
+    "review": "8.7K+",
+    "ratingAvg": 4.4,
+    "downloads": 1850000,
+    "download": "1.8M+",
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 2890 },
+      { "name": "5 star", "count": 4080 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/C1qK9hd6/1200x630wa-(1).jpg",
+    "title": "PhotoMagic Editor",
+    "companyName": "Creative Pixel",
+    "id": 1003,
+    "description": "PhotoMagic Editor is a professional-grade photo editing application designed to provide users with a complete set of creative tools for transforming ordinary images into stunning visuals. The app offers a wide range of features, including background removal, portrait enhancement, artistic filters, collage creation, and restoration of old or damaged photos, making it suitable for casual photographers, social media influencers, and professional designers alike. PhotoMagic Editor supports high-resolution editing, RAW file processing, layers, batch editing, and 4K export, allowing users to work with precision and produce professional-quality results. Its powerful AI-driven tools simplify complex edits, enabling tasks like automatic background replacement, facial retouching, and object enhancement with ease. The app also provides a variety of creative templates and regularly updated AI models, ensuring that users always have access to fresh and innovative effects. With an intuitive interface, PhotoMagic Editor makes it easy to navigate between tools and achieve impressive results quickly. Whether creating social media content, marketing visuals, or personal photo projects, the app empowers users to unleash their creativity. Its combination of advanced features, flexibility, and user-friendly design makes PhotoMagic Editor a versatile and essential tool for anyone looking to enhance and transform their photos with professional-level editing capabilities.",
+    "size": 210,
+    "reviews": 15600,
+    "review": "15.6K+",
+    "ratingAvg": 4.7,
+    "downloads": 3200000,
+    "download": "3.2M+",
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 720 },
+      { "name": "4 star", "count": 4120 },
+      { "name": "5 star", "count": 10210 }
+    ]
+  },
+ {
+    "image": "https://i.postimg.cc/CLPVHyx0/Brand-Assets-Logos-02-NSymbol.jpg",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 1004,
+    "description": "Netflix is a leading streaming service that provides users with access to a vast library of movies, TV shows, documentaries, and original content across multiple genres. The app offers a seamless and personalized viewing experience, allowing users to discover new content based on their preferences and viewing history. Netflix supports multiple user profiles, enabling each member of a household to have a customized watchlist and recommendations. Users can download content for offline viewing, ensuring entertainment is available anytime, anywhere, without the need for a constant internet connection. Netflix Originals have gained global recognition for their high-quality storytelling, innovative concepts, and diverse content, making the platform a top choice for entertainment enthusiasts. The app’s interface is designed for easy navigation, quick content discovery, and smooth playback across smartphones, tablets, smart TVs, and desktops. With continuous updates, new releases, and a commitment to improving user experience, Netflix keeps its library fresh and engaging. Whether you are looking for binge-worthy series, blockbuster movies, or critically acclaimed documentaries, Netflix provides a comprehensive and convenient platform for all your entertainment needs, making it one of the most popular and trusted streaming services worldwide.",
+    "size": 150,
+    "reviews": "1B+",
+    "ratingAvg": 4.2,
+    "downloads": "4200030",
+    "download": "4.2B+",
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 6000000 },
+      { "name": "4 star", "count": 18000000 },
+      { "name": "5 star", "count": 40000000 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/BQKSFWhw/instagram-hero-1200-675.avif",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 1005,
+    "description":"Instagram is a leading social media platform designed for sharing visual content, including photos, short videos, stories, and reels. It allows users to express themselves creatively, connect with friends, and engage with a global community. With powerful editing tools, filters, and effects, users can enhance their posts and showcase their personalities or brand identity. Instagram’s Explore page and personalized recommendations make it easy to discover new content, trending topics, and emerging creators. The platform supports direct messaging, live streaming, and shopping integration, allowing seamless interaction, real-time engagement, and convenient access to products. Influencers, brands, and creators use Instagram to build audiences, promote content, and analyze engagement through built-in insights and analytics. Features like collaborative reels, interactive polls, and story highlights keep users engaged and connected. Instagram constantly evolves, introducing innovative tools and updates to enhance user experience, encourage creativity, and foster meaningful connections. Its combination of visual storytelling, social interaction, and digital marketing capabilities makes Instagram one of the most popular and influential apps worldwide, catering to casual users, creators, and businesses alike.",
+    "size": 110,
+    "reviews": "3B+",
+    "ratingAvg": 4.4,
+    "downloads": "4000030",
+    "download": "4B+",
+    "ratings": [
+      { "name": "1 star", "count": 6000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 80000000 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/1zYgL7Bf/b9adeaa5-195e-4e3e-8986-d113f4b9ba81.avif",
+    "title": "MusicFlow",
+    "companyName": "AudioNova",
+    "id": 1006,
+    "description": "MusicFlow is an innovative music streaming application designed to deliver an exceptional and personalized listening experience for music lovers of all kinds. With access to millions of songs across various genres, MusicFlow allows users to explore new artists, discover trending tracks, and create custom playlists that reflect their unique tastes. The app leverages intelligent recommendation systems to suggest songs and playlists based on listening habits, ensuring users always have fresh content to enjoy. MusicFlow also provides features like offline downloads, high-quality audio streaming, and seamless device switching, allowing uninterrupted music playback on smartphones, tablets, and desktops. Users can follow favorite artists, collaborate on shared playlists with friends, and enjoy radio stations curated by mood, genre, or activity. The app’s elegant dark mode interface and intuitive navigation make browsing, searching, and managing music effortless. Beyond music, MusicFlow frequently updates its library with exclusive releases and artist content, keeping the experience vibrant and engaging. Features such as synchronized lyrics, equalizer settings, and personalized recommendations enhance user interaction, making every listening session more enjoyable. With a combination of high-quality audio, smart personalization, social features, and user-friendly design, MusicFlow offers a complete platform for casual listeners and audiophiles alike, ensuring music is always accessible, exciting, and tailored to individual preferences.",
+    "size": 145,
+    "reviews": 28900,
+    "review": "28.9K+",
+    "ratingAvg": 4.8,
+    "downloads": 8750000,
+    "download": "8.7M+",
+    "ratings": [
+      { "name": "1 star", "count": 680 },
+      { "name": "2 star", "count": 890 },
+      { "name": "3 star", "count": 1450 },
+      { "name": "4 star", "count": 7850 },
+      { "name": "5 star", "count": 18030 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/yYFZkP1Q/1465631-3286.gif",
+    "title": "RecipeMaster",
+    "companyName": "KitchenGenius",
+    "id": 1007,
+    "description": "RecipeMaster is a smart cooking companion designed to make meal preparation enjoyable, efficient, and accessible for cooks of all levels. The app offers a vast collection of recipes from diverse cuisines worldwide, covering everything from quick weeknight meals to gourmet dishes. Users can discover recipes based on the ingredients they have at home by scanning their fridge or pantry, receiving instant suggestions tailored to available items. Step-by-step video guidance, along with detailed instructions and cooking tips, ensures that users can confidently prepare meals without confusion. RecipeMaster also provides nutritional information, shopping lists, and meal planning tools, helping users maintain a balanced diet and organize their weekly cooking routines. Favorite recipes can be saved, adjusted for servings, and shared with friends or family, making it easy to recreate dishes or inspire others. The app supports dietary preferences such as vegan, keto, or gluten-free, catering to a variety of nutritional needs. With timers, reminders, and an intuitive interface, RecipeMaster helps users stay on track in the kitchen. Whether you are a beginner learning essential cooking skills or an experienced chef exploring new culinary ideas, RecipeMaster provides guidance, inspiration, and tools to make cooking a fun, creative, and rewarding experience every day.",
+    "size": 78,
+    "reviews": 5430,
+    "review": "5.4K+",
+    "ratingAvg": 4.6,
+    "downloads": 980000,
+    "download": "980k+",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 620 },
+      { "name": "4 star", "count": 1680 },
+      { "name": "5 star", "count": 2700 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/Dw7z3j6f/facebook-logo-hero-1200x675.avif",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 1008,
+    "description": "Facebook is a global social networking platform that connects billions of people, enabling them to share updates, photos, videos, and stories with friends, family, and communities. The app provides a personalized news feed powered by smart algorithms that show relevant content, trending topics, and updates from followed pages and groups. Users can create and join groups, participate in events, manage business pages, and engage with communities on shared interests. Facebook also offers Marketplace for buying and selling items locally, live streaming for real-time interaction, and integrated messaging through Messenger for seamless communication. Advanced privacy controls allow users to manage who sees their posts and personal information, while notifications and alerts keep them informed of important updates. Businesses and creators can leverage Facebook’s tools for targeted advertising, audience engagement, and content promotion. The platform continuously evolves with new features like Reels, interactive stories, and social tools designed to enhance user experience and foster meaningful connections. With an intuitive interface, multimedia support, and global accessibility, Facebook serves as a comprehensive platform for social interaction, entertainment, information sharing, and community building, making it a central hub for communication and connection worldwide.",
+    "size": 95,
+    "reviews": "4B+",
+    "ratingAvg": 4.1,
+    "downloads": "45600000",
+    "download": "4.5B+",
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 60000000 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/wjjMTn6B/50a30f74e72fb9ce4dd9ec1517b54c1b.webp",
+    "title": "CodeLearn",
+    "companyName": "DevAcademy",
+    "id": 1009,
+    "description": "CodeLearn is an interactive and comprehensive platform designed to make learning programming engaging, effective, and accessible for users of all skill levels. The app provides real-time coding practice, project-based tutorials, and instant feedback across multiple programming languages, including Python, JavaScript, Java, C++, and more. Users can work on hands-on projects, solve coding challenges, and build practical skills while tracking their progress with detailed analytics and performance reports. CodeLearn also offers video lessons from industry experts, interview preparation modules, and a supportive community for peer interaction and mentorship. The app’s structured learning paths guide beginners through fundamentals while allowing experienced developers to explore advanced topics and new languages. With a clean interface, interactive coding exercises, and gamified achievements, CodeLearn motivates users to practice consistently and deepen their understanding of programming concepts. Additionally, the platform supports collaborative learning, allowing users to share solutions, receive feedback, and participate in coding competitions. By combining theoretical lessons with practical applications and continuous assessment, CodeLearn empowers users to master programming, build real-world projects, and advance their careers in technology. It provides an all-in-one learning environment that is ideal for anyone looking to start coding, enhance their skills, or prepare for technical interviews in a structured and engaging way.",
+    "size": 185,
+    "reviews": 6720,
+    "review": "6.7K+",
+    "ratingAvg": 4.5,
+    "downloads": 1320000,
+    "download": "1.3M+",
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 490 },
+      { "name": "3 star", "count": 890 },
+      { "name": "4 star", "count": 1980 },
+      { "name": "5 star", "count": 3050 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/bNHSvQkV/8517719d45c0a45fbd3d5fe802272a5c-fgraphic.png",
+    "title": "WeatherPro",
+    "companyName": "SkyCast",
+    "id": 1010,
+    "description": "WeatherPro is a reliable and feature-rich weather application designed to provide users with accurate, real-time forecasts and insights for planning daily activities, travel, and outdoor events. The app delivers detailed hourly, daily, and 30-day weather predictions, including temperature, precipitation, humidity, wind speed, and more, ensuring users stay informed about changing conditions. Interactive live radar maps and satellite imagery allow users to track storms, rainfall, and severe weather in real time. WeatherPro also offers alerts for extreme weather events, air quality indices, pollen counts, and UV levels, helping users take necessary precautions for health and safety. The app supports multiple locations, customizable widgets, and notifications, making it easy to monitor weather wherever you are. With additional features like sunrise and sunset times, clothing recommendations, and historical weather data, WeatherPro provides comprehensive insights for both casual users and outdoor enthusiasts. The app’s clean, intuitive interface and visualizations make it easy to understand complex meteorological data at a glance. Regular updates ensure that users have access to the latest forecasting models and weather information. WeatherPro combines accuracy, functionality, and user-friendly design to be an essential tool for anyone seeking to stay prepared, safe, and informed about the weather every day.",
+    "size": 45,
+    "reviews": 19800,
+    "review": "19.8K+",
+    "ratingAvg": 4.4,
+    "downloads": 4560000,
+    "download": "4.5M+",
+    "ratings": [
+      { "name": "1 star", "count": 890 },
+      { "name": "2 star", "count": 1230 },
+      { "name": "3 star", "count": 2450 },
+      { "name": "4 star", "count": 6120 },
+      { "name": "5 star", "count": 9110 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/JhJn27sY/google-chrome-logo.webp",
+    "title": "Google Chrome",
+    "companyName": "Google",
+    "id": 1011,
+    "description": "Google Chrome is a fast, secure, and widely used web browser designed to deliver a seamless browsing experience across multiple devices, including smartphones, tablets, and desktops. It offers a clean, intuitive interface with quick page loading, smooth navigation, and powerful performance supported by advanced technologies. Users can sync bookmarks, browsing history, passwords, and settings across devices using their Google account, ensuring a consistent and personalized browsing experience anywhere. Chrome supports a vast library of extensions and add-ons, allowing users to enhance productivity, customize functionality, and tailor the browser to their needs. Built-in security features such as Safe Browsing, automatic updates, and protection against malicious websites and downloads help keep users safe online. The browser also includes powerful developer tools for testing, debugging, and optimizing web applications. Google Chrome is optimized for speed, efficiency, and stability, ensuring smooth operation even with multiple tabs open. Features like voice search, autofill, PDF viewing, and incognito mode further enhance convenience and privacy. Regular updates and continuous improvements keep Chrome at the forefront of modern web browsing, making it a reliable choice for casual users, professionals, and developers seeking a fast, secure, and versatile internet experience.",
+    "size": 100,
+    "reviews": "9M+",
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "download": "10B+",
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 5000000 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/sxMMjYn4/attachment-132249620.png",
+    "title": "ShopSmart",
+    "companyName": "BargainAI",
+    "id": 1012,
+    "description": "ShopSmart is an intelligent shopping assistant designed to help users save both time and money while making informed purchasing decisions. The app allows users to compare prices across multiple stores, track real-time deals, and receive instant notifications about discounts, price drops, and special offers on desired items. ShopSmart’s AI-driven recommendations suggest products tailored to user preferences and past shopping behavior, ensuring personalized and relevant suggestions. The app includes a barcode scanner, receipt organizer, and expense tracking features, making it easy to manage budgets and monitor spending. Users can create smart shopping lists, set reminders for sales, and organize purchases efficiently, whether shopping online or in physical stores. The platform also provides access to product reviews, ratings, and detailed descriptions, helping users make confident buying decisions. With a clean and intuitive interface, ShopSmart ensures a smooth and seamless shopping experience. Regular updates introduce new features, enhance functionality, and improve notifications to keep users informed about the best deals. By combining convenience, personalization, and smart tools, ShopSmart empowers users to shop wisely, save money, and enjoy a stress-free shopping experience every time.",
+    "size": 55,
+    "reviews": 4560,
+    "review": "4.5K+",
+    "ratingAvg": 4.2,
+    "downloads": 890000,
+    "download": "890k+",
+    "ratings": [
+      { "name": "1 star", "count": 380 },
+      { "name": "2 star", "count": 620 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 1380 },
+      { "name": "5 star", "count": 1200 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/hG8x61wd/cut-video-logo-edit-logo-video-vector.jpg",
+    "title": "VideoCut Pro",
+    "companyName": "FrameForge",
+    "id": 1013,
+    "description": "VideoCut Pro is a powerful and user-friendly mobile video editing application designed for creators of all skill levels, from beginners to professionals. The app provides a comprehensive set of editing tools, allowing users to trim and merge clips, add transitions, apply professional visual effects, and insert text, music, or voiceovers with ease. VideoCut Pro supports high-resolution video editing, including 4K output, slow-motion, speed ramping, and multi-layer editing, giving creators full control over their projects. The app also offers intuitive templates, beginner-friendly tutorials, and advanced features for more complex edits, making it suitable for social media content, YouTube videos, TikTok clips, and personal projects alike. Users can export videos quickly and share them directly on various platforms without losing quality. The app emphasizes efficiency, creativity, and flexibility, allowing for precise adjustments, color grading, and audio enhancements. Regular updates bring new effects, transitions, and creative tools to keep the editing experience fresh and innovative. With its elegant interface, powerful functionality, and seamless performance, VideoCut Pro empowers users to transform raw footage into polished, cinematic-quality videos, helping them express creativity, engage audiences, and produce professional results on the go.",
+    "size": 245,
+    "reviews": 11200,
+    "review": "11.2K+",
+    "ratingAvg": 4.6,
+    "downloads": 2340000,
+    "download": "2.3M+",
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 670 },
+      { "name": "3 star", "count": 1340 },
+      { "name": "4 star", "count": 3450 },
+      { "name": "5 star", "count": 5290 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/Lhd5ss6D/images-(1).jpg",
+    "title": "NewsPulse",
+    "companyName": "GlobalFeed",
+    "id": 1014,
+    "description": "NewsPulse is a personalized news aggregator designed to keep users informed with the most relevant and up-to-date stories from trusted sources worldwide. The app allows users to customize their news feed by selecting preferred topics, sources, and areas of interest, ensuring a tailored reading experience that matches individual preferences. Users can read articles offline, receive breaking news notifications, and access fact-checking tools to verify information, promoting informed and accurate consumption of news. NewsPulse provides a clean, distraction-free interface, making it easy to navigate through articles, summaries, and audio briefings without feeling overwhelmed. The app delivers daily briefings, smart summaries, and audio news options, saving time while ensuring users stay current on politics, technology, business, sports, and entertainment. With advanced algorithms, the platform highlights trending stories and important updates, helping users focus on significant developments globally and locally. NewsPulse also offers bookmarking, sharing options, and interactive features to engage with content and participate in discussions. Regular updates enhance the user experience, improve functionality, and expand coverage. By combining personalization, accessibility, and reliability, NewsPulse empowers users to stay informed efficiently, making it an essential tool for anyone seeking accurate, timely, and relevant news in today’s fast-paced world.",
+    "size": 82,
+    "reviews": 7650,
+    "review": "7.6K+",
+    "ratingAvg": 4.3,
+    "downloads": 1670000,
+    "download": "1.6M+",
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 780 },
+      { "name": "3 star", "count": 1450 },
+      { "name": "4 star", "count": 2380 },
+      { "name": "5 star", "count": 2520 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/qRbCp03w/new-google-photos-logo.avif",
+    "title": "Google Photos",
+    "companyName": "Google",
+    "id": 1015,
+    "description": "Google Photos is a powerful cloud-based photo and video storage application designed to help users organize, back up, and access their media seamlessly across all devices. The app automatically syncs photos and videos from smartphones, tablets, and computers, ensuring that memories are safely stored and easily retrievable at any time. Advanced AI features allow users to search for images by people, places, or objects without manual tagging, making it effortless to find specific photos or create themed albums. Google Photos includes a wide range of editing tools, including filters, adjustments, cropping, and enhancements, allowing users to perfect their images before sharing. The app also supports creating collages, animations, movies, and personalized photo books, helping users relive special moments creatively. Sharing is simple, with options to send albums, links, or individual photos to friends and family. With facial recognition, intelligent suggestions, and automatic organization, Google Photos provides a seamless and efficient experience for managing large media libraries. Regular updates improve functionality, enhance AI capabilities, and expand storage features. By combining security, convenience, and creative tools, Google Photos ensures that users’ memories are not only preserved but also easily accessible, organized, and beautifully presented for any occasion.",
+    "size": 90,
+    "reviews": "6M+",
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "download": "5B+",
+    "ratings": [
+      { "name": "1 star", "count": 70000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 3000000 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/j2363Pcz/images.jpg",
+    "title": "BookWorm",
+    "companyName": "LitVerse",
+    "id": 1016,
+    "description": "BookWorm is a feature-rich e-book reader and audiobook player designed to provide an immersive reading experience for book lovers of all ages. The app offers access to millions of books across all genres, including fiction, non-fiction, self-help, academic texts, and bestsellers, along with curated recommendations tailored to individual reading preferences. Users can seamlessly switch between reading e-books and listening to audiobooks, making it convenient for on-the-go learning and entertainment. BookWorm allows full customization of the reading experience, including adjustable fonts, themes, background colors, and reading goals, ensuring comfort and accessibility for all users. Features such as offline reading, night mode, bookmarks, highlights, and a built-in dictionary enhance usability and engagement. Readers can track their progress, join virtual book clubs, and share quotes or favorite passages with friends, creating a social and interactive experience. The app also includes personalized suggestions, new releases, and curated collections to help users discover their next favorite book. With an intuitive interface, smooth performance, and regular updates, BookWorm makes it easy to carry an entire library in your pocket. By combining convenience, customization, and a rich library of content, BookWorm empowers readers to enjoy immersive storytelling anytime, anywhere.",
+    "size": 135,
+    "reviews": 13400,
+    "review": "13.4K+",
+    "ratingAvg": 4.7,
+    "downloads": 2890000,
+    "download": "2.8M+",
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 820 },
+      { "name": "4 star", "count": 3780 },
+      { "name": "5 star", "count": 8130 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/yx0Bvysf/stockmaster.jpg",
+    "title": "StockMaster",
+    "companyName": "MarketEdge",
+    "id": 1017,
+    "description": "StockMaster is a comprehensive financial and investment app designed to provide users with real-time stock market data, portfolio tracking, and intelligent insights for making informed investment decisions. The app covers global markets, delivering live price updates, technical analysis, company news, and customizable alerts to keep investors ahead of market movements. Users can create multiple watchlists, monitor portfolio performance, and analyze trends with detailed charts, graphs, and reports, helping both beginners and experienced traders make strategic choices. StockMaster also provides educational content, including tutorials, market insights, and investment tips, empowering users to enhance their financial knowledge and trading skills. The app’s intuitive interface ensures smooth navigation, while features like push notifications and personalized summaries ensure users never miss critical updates. With robust security measures, StockMaster safeguards sensitive financial data and ensures reliable performance under real-time market conditions. Users can explore investment opportunities, track favorite stocks, and receive expert-driven recommendations tailored to their investment goals. Regular updates enhance functionality, improve analytics tools, and provide access to new market features. By combining accuracy, convenience, and comprehensive market intelligence, StockMaster enables users to confidently manage investments, optimize portfolios, and stay informed in a dynamic financial landscape.",
+    "size": 92,
+    "reviews": 5670,
+    "review": "5.6K+",
+    "ratingAvg": 4.4,
+    "downloads": 1240000,
+    "download": "1.2M+",
+    "ratings": [
+      { "name": "1 star", "count": 340 },
+      { "name": "2 star", "count": 510 },
+      { "name": "3 star", "count": 920 },
+      { "name": "4 star", "count": 1720 },
+      { "name": "5 star", "count": 2180 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/rwmP8KcM/1200x630wa-(3).png",
+    "title": "PetCare",
+    "companyName": "AnimalFriend",
+    "id": 1018,
+    "description": "PetCare is a complete health and wellness app designed to help pet owners manage and monitor the lives of their beloved animals efficiently. The app allows users to track vaccinations, vet appointments, feeding schedules, and daily activities, ensuring pets receive consistent care. With advanced photo recognition, PetCare can identify dog and cat breeds and provide personalized care tips tailored to each pet’s needs. The app also offers training guides, behavior analysis, and emergency contact features, helping owners address common challenges and respond quickly to urgent situations. Users can connect with a community of pet lovers to share experiences, seek advice, and exchange tips on pet care. PetCare includes tools for logging growth, weight, and health progress, making it easy to maintain comprehensive records for multiple pets. The app provides reminders for medication, grooming, and check-ups, reducing the chances of missed care routines. Its intuitive interface, clear notifications, and helpful resources make managing pets simple, enjoyable, and stress-free. By combining practical management features, expert guidance, and community support, PetCare empowers pet owners to ensure the well-being, happiness, and safety of their furry companions, creating a healthier and more fulfilling life for pets and their families alike.",
+    "size": 67,
+    "reviews": 2890,
+    "review": "2.8K+",
+    "ratingAvg": 4.6,
+    "downloads": 670000,
+    "download": "670k+",
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 340 },
+      { "name": "4 star", "count": 820 },
+      { "name": "5 star", "count": 1490 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/R028p9kK/1200x630wa-(2).png",
+    "title": "TranslateNow",
+    "companyName": "LinguaTech",
+    "id": 1019,
+    "description": "TranslateNow is a fast, accurate, and versatile translation app designed to make communication across languages effortless for travelers, professionals, and language learners. Supporting over 100 languages, the app allows users to translate text, voice, and images instantly, including menus, signs, documents, and conversations in real time. With its offline mode, TranslateNow ensures that users can access translations even without an internet connection, making it ideal for international travel or remote areas. The app features natural voice output for spoken translations, enabling clear and realistic pronunciation to aid in effective communication. Users can save frequently used phrases, create personalized language lists, and revisit previous translations for convenience. Advanced AI-powered algorithms enhance translation accuracy, ensuring contextual relevance and minimizing errors. The simple, intuitive interface makes the app easy to navigate for all ages and skill levels, while regular updates expand language support and improve translation quality. TranslateNow also supports real-time conversation mode, where users can hold bilingual discussions seamlessly, bridging language barriers effortlessly. By combining speed, accuracy, and accessibility, TranslateNow empowers users to communicate confidently, navigate new cultures, and connect with people worldwide without language limitations.",
+    "size": 58,
+    "reviews": 19800,
+    "review": "19.8K+",
+    "ratingAvg": 4.5,
+    "downloads": 4120000,
+    "download": "4.1M+",
+    "ratings": [
+      { "name": "1 star", "count": 780 },
+      { "name": "2 star", "count": 1120 },
+      { "name": "3 star", "count": 2340 },
+      { "name": "4 star", "count": 6120 },
+      { "name": "5 star", "count": 9440 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/bNR7y7tF/1200x630wa.jpg",
+    "title": "HomeSecure",
+    "companyName": "SmartGuard",
+    "id": 1020,
+    "description": "HomeSecure is a comprehensive home security app that transforms your smartphone into a powerful monitoring and protection system, giving users peace of mind whether at home or away. The app integrates seamlessly with smart cameras, door sensors, motion detectors, and other connected devices, providing real-time alerts and live video feeds directly to your device. Users can arm or disarm their security system remotely, review recorded footage, and monitor multiple areas of their home simultaneously. HomeSecure also offers two-way audio, enabling direct communication with visitors or delivery personnel without opening the door. Its intuitive interface allows easy setup, management, and customization of notifications, ensuring you are immediately informed of unusual activity or potential threats. Advanced encryption and reliable data protection safeguard both user information and security footage, enhancing overall system trustworthiness. HomeSecure provides detailed event logs, history playback, and smart alert features to keep users informed and proactive in protecting their property. With continuous updates and added functionality, the app supports integration with other smart home devices, creating a complete and connected home security ecosystem. By combining convenience, reliability, and robust protection features, HomeSecure empowers homeowners, renters, and families to confidently safeguard what matters most.",
+    "size": 150,
+    "reviews": 6780,
+    "review": "6.7K+",
+    "ratingAvg": 4.3,
+    "downloads": 1450000,
+    "download": "1.4M+",
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 780 },
+      { "name": "3 star", "count": 1340 },
+      { "name": "4 star", "count": 1980 },
+      { "name": "5 star", "count": 2160 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/fL94Mkck/1200x630wa-(1).png",
+    "title": "YogaFlow",
+    "companyName": "WellnessPath",
+    "id": 1021,
+    "description": "YogaFlow is a comprehensive wellness app designed to bring personalized yoga and meditation experiences to users of all levels, from beginners to advanced practitioners. The app offers a wide variety of yoga routines, including gentle flows, strength-building sequences, flexibility exercises, relaxation practices, and specialized programs targeting back pain, stress relief, or improved posture. Using advanced pose detection technology, YogaFlow provides real-time feedback to help users perfect their alignment and maximize the benefits of each session. The app features high-definition video classes with calming music, guided meditation sessions, and breathing exercises to promote mental clarity and emotional balance. Users can track their progress, set daily or weekly goals, and create personalized routines that fit their lifestyle and fitness level. YogaFlow also includes detailed instructions, motivational tips, and reminders to encourage consistent practice, helping users build long-term healthy habits. The intuitive interface ensures easy navigation, while the variety of sessions caters to different time constraints and personal preferences. By combining physical exercise, mental relaxation, and mindfulness techniques, YogaFlow empowers users to improve overall well-being, enhance flexibility, strengthen the body, and cultivate inner calm, making yoga and meditation accessible anytime, anywhere.",
+    "size": 88,
+    "reviews": 4320,
+    "review": "4.3K+",
+    "ratingAvg": 4.7,
+    "downloads": 890000,
+    "download": "890k+",
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 390 },
+      { "name": "4 star", "count": 1180 },
+      { "name": "5 star", "count": 2460 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/Kzqm18Qk/65b9dc511733d.jpg",
+    "title": "CarMaintenance",
+    "companyName": "AutoLog",
+    "id": 1022,
+    "description": "CarMaintenance is a smart and user-friendly app designed to help vehicle owners keep their cars in top condition with minimal effort. The app allows users to track service history, mileage, fuel consumption, and upcoming maintenance needs, ensuring that every aspect of vehicle care is organized and up to date. CarMaintenance provides timely alerts and reminders for essential tasks such as oil changes, tire rotations, brake inspections, insurance renewals, and other routine services, helping prevent costly repairs and extending the lifespan of vehicles. Users can log expenses, generate detailed reports, and monitor multiple vehicles, making it ideal for both individual owners and fleet managers. The app also offers tips and guidance on proper car care, maintenance best practices, and seasonal preparation to ensure optimal performance. With an intuitive interface, clear notifications, and easy navigation, CarMaintenance simplifies vehicle management, allowing users to stay proactive and organized. By combining practicality, reliability, and comprehensive tracking features, CarMaintenance empowers users to maintain their cars efficiently, save money, and enjoy peace of mind knowing that their vehicles are well cared for at all times.",
+    "size": 64,
+    "reviews": 2890,
+    "review": "2.8K+",
+    "ratingAvg": 4.4,
+    "downloads": 670000,
+    "download": "670k+",
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 290 },
+      { "name": "3 star", "count": 520 },
+      { "name": "4 star", "count": 920 },
+      { "name": "5 star", "count": 980 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/Wpqp41NC/world-podcast-logo-design-vector-illustration-685330-2179.avif",
+    "title": "PodcastWorld",
+    "companyName": "AudioCast",
+    "id": 1023,
+    "description": "PodcastWorld is the ultimate app for podcast enthusiasts, offering a seamless and engaging listening experience for users of all interests. The app provides access to millions of podcasts across a wide range of categories, including news, comedy, education, true crime, health, technology, and lifestyle, ensuring there is something for everyone. Users can create personalized playlists, download episodes for offline listening, and receive tailored recommendations based on their listening habits. PodcastWorld includes smart features such as adjustable playback speed, sleep timers, and chapter navigation, allowing listeners to control their experience and enjoy content at their own pace. The app also enables users to follow favorite hosts, receive notifications for new episodes, and organize subscriptions for easy access. Its clean and intuitive interface makes discovering, managing, and enjoying podcasts effortless, while high-quality audio ensures a premium listening experience. Whether users have five minutes or an hour, PodcastWorld transforms every moment into an opportunity for learning, entertainment, or inspiration. By combining advanced personalization, convenience, and a vast library of content, PodcastWorld empowers users to explore new topics, stay informed, and enjoy their favorite shows anytime, anywhere.",
+    "size": 105,
+    "reviews": 9870,
+    "review": "9.8K+",
+    "ratingAvg": 4.6,
+    "downloads": 1980000,
+    "download": "1.9M+",
+    "ratings": [
+      { "name": "1 star", "count": 240 },
+      { "name": "2 star", "count": 380 },
+      { "name": "3 star", "count": 890 },
+      { "name": "4 star", "count": 2890 },
+      { "name": "5 star", "count": 5470 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/P5wJ0YyK/plant.jpg",
+    "title": "PlantCare",
+    "companyName": "GreenThumb",
+    "id": 1024,
+    "description": "PlantCare is a comprehensive app designed for plant enthusiasts who want to keep their indoor and outdoor plants healthy, thriving, and beautifully maintained. The app allows users to identify plants instantly using photo recognition and provides detailed care instructions, including watering schedules, sunlight requirements, fertilization guidance, and optimal environmental conditions. PlantCare also helps users track the growth of their plants through photo logs, notes, and progress charts, making it easy to monitor plant health over time. The app includes a large database of houseplants, trees, and shrubs, along with troubleshooting tips for common issues such as pests, diseases, and nutrient deficiencies. Users can receive personalized reminders for watering, fertilizing, and pruning, ensuring that their plants receive the right care at the right time. PlantCare also offers community features, allowing plant lovers to share tips, ask questions, and connect with other gardeners for advice and inspiration. With its intuitive interface, beautiful visuals, and practical guidance, PlantCare makes plant parenting enjoyable and stress-free. Whether managing a single plant or an entire indoor jungle, PlantCare empowers users to nurture their greenery effectively, fostering a deeper connection with nature while creating a vibrant, thriving plant collection.",
+    "size": 76,
+    "reviews": 3450,
+    "review": "3.4K+",
+    "ratingAvg": 4.8,
+    "downloads": 780000,
+    "download": "780k+",
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 290 },
+      { "name": "4 star", "count": 920 },
+      { "name": "5 star", "count": 2040 }
+    ]
+  },
+  {
+    "image": "https://i.postimg.cc/X76w2Nnd/maxresdefault.jpg",
+    "title": "QuizMaster",
+    "companyName": "BrainGames",
+    "id": 1025,
+    "description": "QuizMaster is an engaging and interactive trivia app designed for users who love testing their knowledge and challenging themselves across a wide range of topics. The app offers thousands of questions covering categories such as history, science, sports, movies, technology, general knowledge, and pop culture, ensuring there is something for everyone. Users can participate in daily quizzes, timed challenges, and competitive games to sharpen their skills, earn points, and climb leaderboards. QuizMaster includes multiple game modes, power-ups, and achievements that make learning fun and rewarding, encouraging players to return regularly for new challenges. The app also allows users to create custom quizzes, compete with friends, and track progress over time, providing a personalized and social experience. With a clean and intuitive interface, QuizMaster ensures smooth navigation, easy question readability, and quick access to results and explanations. Regular updates introduce fresh questions, seasonal events, and themed challenges, keeping the content exciting and dynamic. Whether used for family game nights, party entertainment, or personal brain training, QuizMaster combines fun, education, and competition, making it the perfect app for anyone looking to expand their knowledge, challenge themselves, and enjoy hours of engaging trivia entertainment.",
+    "size": 52,
+    "reviews": 15600,
+    "review": "15.6K+",
+    "ratingAvg": 4.5,
+    "downloads": 3120000,
+    "download": "3.1M+",
+    "ratings": [
+      { "name": "1 star", "count": 680 },
+      { "name": "2 star", "count": 920 },
+      { "name": "3 star", "count": 1890 },
+      { "name": "4 star", "count": 4780 },
+      { "name": "5 star", "count": 7330 }
+    ]
+  }
+]

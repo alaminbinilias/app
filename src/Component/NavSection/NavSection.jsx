@@ -1,9 +1,10 @@
-import React from 'react';
 import git from '../../Images/github.png'
 import logo from '../../Images/Logo.png'
 import home from '../../Images/home.png'
 import app from '../../Images/app-store.png'
 import install from '../../Images/download.png'
+import { NavLink } from 'react-router';
+import '../NavSection/NavSaction.css'
 const NavSection = () => {
     return (
         <div>
@@ -20,31 +21,29 @@ const NavSection = () => {
                         <ul
                             tabIndex="-1"
                             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-                            <li><a className='font-semibold text-[1.1rem]'> <span className='-mr-1'> <img src={home} alt="" /></span>Home</a></li>
-                            <li><a className='font-semibold text-[1.1rem]'> <span className='w-4 -mr-1'> <img src={app} alt="" /></span>Apps</a></li>
-                            <li><a className='font-semibold text-[1.1rem]'> <span className=' -mr-1 w-4'> <img src={install} alt="" /></span>Installation</a></li>
+                            <li><NavLink to='./' className='font-semibold text-[1.1rem]'> <span className='-mr-1'> <img src={home} alt="" /></span>Home</NavLink></li>
+                            <li><NavLink to='./apps' className='font-semibold text-[1.1rem]'> <span className='w-4 -mr-1'> <img src={app} alt="" /></span>Apps</NavLink></li>
+                            <li><NavLink to='/installedapps' className='font-semibold text-[1.1rem]'> <span className=' -mr-1 w-4'> <img src={install} alt="" /></span>Installation</NavLink></li>
                         </ul>
                     </div>
-                    <a className=" font-semibold flex items-center justify-center cursor-pointer text-xl bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent"><span className='px-0 lg:px-2'><img src={logo} alt="" /></span>HERO.IO</a>
+                    <NavLink to='/' className=" font-semibold flex items-center justify-center cursor-pointer text-xl bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent"><span className='px-0 lg:px-2'><img src={logo} alt="" /></span>HERO.IO</NavLink>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
-                        <li><a className='font-semibold text-[1.1rem]'> <span className='-mr-1'> <img src={home} alt="" /></span>Home</a></li>
-                        <li><a className='font-semibold text-[1.1rem]'> <span className='w-4 -mr-1'> <img src={app} alt="" /></span>Apps</a></li>
-                        <li><a className='font-semibold text-[1.1rem]'> <span className=' -mr-1 w-4'> <img src={install} alt="" /></span>Installation</a></li>
+                        <li><NavLink to='./' className='font-semibold text-[1.1rem]'> <span className='-mr-1'> <img src={home} alt="" /></span>Home</NavLink></li>
+                        <li><NavLink to='./apps' className='font-semibold text-[1.1rem]'> <span className='w-4 -mr-1'> <img src={app} alt="" /></span>Apps</NavLink></li>
+                        <li><NavLink to='/installedapps' className='font-semibold text-[1.1rem]'> <span className=' -mr-1 w-4'> <img src={install} alt="" /></span>Installation</NavLink></li>
                     </ul>
                 </div>
                 <div className="navbar-end">
                     <div>
 
-                        <a className="btn text-white bg-gradient-to-r from-[#632EE3] to-[#9F62F2]"><span><img src={git} alt="" /></span> Contribute</a>
-                        <a></a>
+                        <NavLink to='https://github.com/alaminbinilias' target='blank' className="btn text-white bg-gradient-to-r from-[#632EE3] to-[#9F62F2]"><span><img src={git} alt="" /></span> Contribute</NavLink>
                     </div>
                 </div>
             </div>
 
             {/* NavSection End */}
-
         </div>
     );
 };

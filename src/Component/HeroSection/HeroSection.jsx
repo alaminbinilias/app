@@ -3,6 +3,7 @@ import playstore from "../../Images/play.png"
 import appstore from "../../Images/app-store.png"
 import header from "../../Images/HD1.png"
 import phone from "../../Images/Iphone.png"
+import { NavLink } from 'react-router';
 const HeroSection = () => {
     return (
         <div>
@@ -11,8 +12,8 @@ const HeroSection = () => {
                 <p className='mt-5 text-center w-full px-4 lg:w-200 lg:mx-auto text-gray-500  text-sm lg:text-md'>At HERO.IO , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting. Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
 
                 <div className='flex justify-center items-center mt-6 '>
-                    <button className="btn  mr-2"><span><img className='w-5 flex items-center justify-center' src={playstore} alt='Play Store Not Found'></img> </span>Google Play</button>
-                    <button className="btn px-6"><span><img className='w-5 flex items-center justify-center' src={appstore} alt='App Store Not Found'></img> </span>App Store</button>
+                    <NavLink to='https://play.google.com/store/games?hl=en' target='blank'><button className="btn  mr-2"><span><img className='w-5 flex items-center justify-center' src={playstore} alt='Play Store Not Found'></img> </span>Google Play</button></NavLink>
+                    <NavLink to='https://www.apple.com/app-store/' target='blank'><button className="btn px-6"><span><img className='w-5 flex items-center justify-center' src={appstore} alt='App Store Not Found'></img> </span>App Store</button></NavLink>
                 </div>
 
                 <div className='pb-20'>
